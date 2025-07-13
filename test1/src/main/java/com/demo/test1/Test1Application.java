@@ -8,6 +8,7 @@ public class Test1Application {
 
 	public static void main(String[] args) {
 		int x=10;
+		String branch="dev";
 		SpringApplication.run(Test1Application.class, args);
 	}
 
